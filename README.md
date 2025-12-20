@@ -8,7 +8,7 @@ Over time, I shifted toward applied machine learning, focusing on building syste
 
 <br> 
 
-| ***Veni, vidi, vici*** |
+| ***Veni, Vidi, Vici*** |
 |-------|
 |  ![Banner](https://images7.alphacoders.com/607/thumb-1920-607757.jpg)|
 
