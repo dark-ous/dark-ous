@@ -1,5 +1,7 @@
 ![Header](./ss.png)
 <br>
+<br>
+
 AI Engineer | Applied ML + Web Development
 ------------------------------------------
 
