@@ -10,7 +10,7 @@ Over time, I shifted toward applied machine learning, focusing on building syste
 
 | ***Veni, vidi, vici*** |
 |-------|
-|  ![Banner](https://cdn.marvel.com/content/2x/333svs_com_mas_mob_01.jpg)|
+|  ![Banner](https://images7.alphacoders.com/607/thumb-1920-607757.jpg)|
 
 <br>
 
