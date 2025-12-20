@@ -59,20 +59,8 @@ This GitHub reflects that progression — from early learning projects to more s
 |![Banner](https://cdn.marvel.com/content/2x/333svs_com_mas_mob_01.jpg)|
 
 
-
-
-
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/dark-ous" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>&nbsp;&nbsp;&nbsp;</p>
-<br>
-<br>
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/retr_0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>&nbsp;&nbsp;&nbsp;</li>
-
-</ul>
+<div align="left">
+  <a href="https://www.buymeacoffee.com/retr_0">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+  </a>
+</div>
